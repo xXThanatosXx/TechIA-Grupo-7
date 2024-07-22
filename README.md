@@ -1,10 +1,10 @@
-<h1 align="center">Curso Explorador IA-G3 </h1>
+<h1 align="center">Curso Explorador IA-G7 </h1>
 
 <p align="center">
 <img src="./Logos/logo.png" height="100">
 </p>
 
-Bienvenido al repositorio del curso de Inteligencia Artificial Generación 3 modalidad Virtual. Este curso está diseñado para los estudiantes e investigadores interesados en el campo de la IA y cubre desde conceptos básicos hasta aplicaciones de modelos inteligentes en el campo del Machine Learning.
+Bienvenido al repositorio del curso de Inteligencia Artificial Generación 7 modalidad Virtual. Este curso está diseñado para los estudiantes e investigadores interesados en el campo de la IA y cubre desde conceptos básicos hasta aplicaciones de modelos inteligentes en el campo del Machine Learning.
 
 
 # Horario de clase
