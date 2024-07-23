@@ -5,7 +5,7 @@ En esta sección se describe el proceso de crear un Chatbot e indexarlo en una p
 
 <a href="https://scispace.com/" target="_blank">Enlace a plataforma Scispace</a>
 
-<a href="https://www.stack-ai.com/project/workflow?tab_id=667ccc34ea372975d2256377" target="_blank">Enlace a plataforma Stack-IA</a>
+<a href="https://www.stack-ai.com/" target="_blank">Enlace a plataforma Stack-IA</a>
 
 
 <!-- Este repositorio está organizado de la siguiente manera:
