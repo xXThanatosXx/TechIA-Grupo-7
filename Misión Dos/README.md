@@ -7,8 +7,13 @@
 
 <a href="https://www.canva.com/design/DAGEl2pQeQg/QoNwBNFiGP3J5z3sZaVeHg/view?utm_content=DAGEl2pQeQg&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Enlace a Presentación Python en IA</a>
 
+<a href="https://www.canva.com/design/DAGIO3QavOM/Aw_Kl4J4qpd1LFwJpMnuuw/view?utm_content=DAGIO3QavOM&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Enlace a Presentación Python en IA II</a>
+
+
+
 ## [📄 ](./01_FundamentosPython.ipynb/) Script clase Variables en python, Contenedores python
 ## [📄 ](./02_Condiciones.ipynb/) Script clase clase Ciclos, Funciones, Manejo de errores y excepciones
+
 
 
 
