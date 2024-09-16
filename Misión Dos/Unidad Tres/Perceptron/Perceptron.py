@@ -22,7 +22,7 @@ sc = StandardScaler()
 sc.fit(X_train)
 X_train_std = sc.transform(X_train)
 X_test_std = sc.transform(X_test)
-
+    
 # Modificar la tasa de aprendizaje
 learning_rate = 0.01  # Ajusta este valor según tus necesidades
 
