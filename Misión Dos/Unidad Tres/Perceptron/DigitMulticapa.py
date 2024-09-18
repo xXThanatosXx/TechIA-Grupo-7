@@ -21,7 +21,7 @@ X_train_std = sc.transform(X_train)
 X_test_std = sc.transform(X_test)
 
 # Entrenar el Perceptrón Multicapa
-mlp = MLPClassifier(hidden_layer_sizes=(10,), max_iter=40, alpha=0.001, learning_rate_init=0.15, random_state=1, solver='adam', activation='relu')
+mlp = MLPClassifier(hidden_layer_sizes=(100,), max_iter=1000, alpha=0.001, learning_rate_init=0.15, random_state=1, solver='adam', activation='relu')
 mlp.fit(X_train_std, y_train)
 
 # Realizar predicciones
