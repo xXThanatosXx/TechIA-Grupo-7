@@ -26,6 +26,48 @@ ChurnPrediction/
 - `config.py`: Contiene configuraciones y constantes utilizadas en el proyecto.
 - `churn_data.xlsx`: Archivo Excel con datos ficticios de clientes.
 
+## Crear un entorno virtual
+En la terminal escribir
+```bash
+pip freeze
+```
+En una terminal de VsCode escribir los comandos:
+
+```bash
+pip install virtualenv
+```
+
+Habilitar permisos de entornos (Ejecutar Windows PowerShell)
+
+```bash
+Set-ExecutionPolicy Unrestricted
+```
+Escribir s y presionar enter
+
+Navega hasta el directorio raíz de tu proyecto y ejecuta el siguiente comando para crear un nuevo entorno virtual. Puedes reemplazar nombre_del_entorno con el nombre que desees para tu entorno virtual
+
+Python 3.11 o superior
+
+```bash
+python -m venv venv
+```
+
+Python 3.10 o menor
+```bash
+virtualenv venv
+```
+
+Activar el entorno
+
+En Windows:
+```bash
+.\venv\Scripts\activate.bat
+```
+Desactivar el entorno virtual
+```bash
+deactivate
+```
+
 ## Librerías Necesarias
 
 Para ejecutar este proyecto, necesitarás instalar las siguientes librerías:
