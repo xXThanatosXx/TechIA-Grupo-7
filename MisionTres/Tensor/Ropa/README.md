@@ -31,6 +31,7 @@ train_images = train_images / 255.0
 test_images = test_images / 255.0
 
 # Cambiar la forma de las imágenes para que tengan una dimensión de canal
+# Alto, ancho, Canal 
 train_images = train_images.reshape((train_images.shape[0], 28, 28, 1))
 test_images = test_images.reshape((test_images.shape[0], 28, 28, 1))
 
