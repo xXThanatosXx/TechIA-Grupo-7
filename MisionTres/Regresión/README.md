@@ -63,12 +63,12 @@ from sklearn.pipeline import Pipeline
 import sklearn.datasets as dts 
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
-import pandas as pd
 
 
 # Cargar el dataset Iris
 iris = dts.load_iris()
-
+X = iris.data
+y = iris.target
 
 # Crear un pipeline para escalar los datos y entrenar el modelo SVR
 pipeline = Pipeline([
