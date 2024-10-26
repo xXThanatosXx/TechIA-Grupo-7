@@ -1,0 +1,9 @@
+Artificial intelligence, or AI, is a branch of computer science. AI is dedicated to creating machines that can perform tasks that require human intelligence. These tasks include voice recognition, natural language processing, decision-making, and machine learning. AI is classified into several types based on its capability.
+
+There are three main types of artificial intelligence. The first is narrow artificial intelligence, or ANI. ANI is designed to perform a single task. An example is voice recognition on mobile phones. The second type is general artificial intelligence, or AGI. AGI can perform any task that a human can do. It is a field under research and does not yet fully exist. The third type is superintelligent artificial intelligence, or ASI. ASI would be smarter than humans in all aspects. This type of AI is theoretical and has not been achieved.
+
+Different tools and frameworks are used to develop artificial intelligence. Some of the most popular frameworks are TensorFlow, PyTorch, and Scikit-Learn. These frameworks help train and deploy AI models. TensorFlow is developed by Google and is widely used in deep learning applications. PyTorch is another popular framework that is easy to use and is supported by Facebook. Scikit-Learn is useful for traditional machine learning, such as classification and regression.
+
+There are several types of artificial intelligence models. Some of the most common models are neural networks, decision trees, and regression models. Neural networks are widely used in deep learning. These models are inspired by the functioning of the human brain. Decision trees are used for classification tasks. They allow decisions to be made based on a series of questions. Regression models are used to predict numerical values.
+
+In summary, artificial intelligence is a broad field with different types, frameworks, and models. AI continues to evolve and has many applications in everyday life.

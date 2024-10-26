@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot MiniGPT</title>
+</head>
+<body>
+    <h1>Bienvenido al Chatbot MiniGPT</h1>
+    <input type="text" id="userInput" placeholder="Hazme una pregunta...">
+    <button onclick="sendQuestion()">Enviar</button>
+    <p id="responseText"></p>
+
+    <script>
+        async function sendQuestion() {
+            const question = document.getElementById("userInput").value;
+            const responseElement = document.getElementById("responseText");
+
+            const response = await fetch('https://YOUR_API_URL/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ question: question })
+            });
+
+            if (response.ok) {
+                const data = await response.json();
+                responseElement.innerText = data.response;
+            } else {
+                responseElement.innerText = "Error al obtener la respuesta.";
+            }
+        }
+    </script>
+</body>
+</html>
